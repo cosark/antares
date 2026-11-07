@@ -196,6 +196,10 @@ token in the Keychain. Build it with `make desktop`; see
 
 ---
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Antares/)
+
 ## Configuration
 
 Everything lives in `~/.antares/config.yaml`, editable from the dashboard, the
